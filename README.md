@@ -47,6 +47,7 @@ THEN I should have proper build scripts for a webpack application
 ## Mock-Up
 
 The following animation demonstrates the application functionality:
+![for readme](https://user-images.githubusercontent.com/99621150/170167531-b769eeb0-27c3-4dd4-906f-984ac9d0d01e.png)
 
 ## Questions
 
